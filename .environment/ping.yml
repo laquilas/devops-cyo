@@ -1,4 +1,3 @@
----
 - name: Run connection tests
   hosts: localhost
 
